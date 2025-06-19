@@ -50,13 +50,13 @@ export const PROJECTS = [
     title: "Property Dealing Website",
     image: project4,
     description:
-      "One platform unites buyers, dealers, and diverse property owners nationwide, offering the optimal path for customers to purchase or sell property. Facilitating seamless communication between buyers and dealers across 100+ locations",
+      "One platform unites buyers, dealers, and diverse property owners nationwide, offering the optimal path for customers to purchase or sell property. Facilitating seamless communication between buyers and dealers across 100+ locations.",
     technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "Git"],
   },
 ];
 
 export const CONTACT = {
-  address: "767 Fifth Avenue, New York, NY 10153 ",
-  phoneNo: "+12 4555 666 00 ",
+  address: "xyz",
+  phoneNo: "+91 1234567890",
   email: "devkoyani521@gmail.com",
 };

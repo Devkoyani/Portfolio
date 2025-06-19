@@ -1,4 +1,5 @@
-import { FaLinkedin, FaGithub, FaTwitter, FaInstagram } from "react-icons/fa";
+import { FaLinkedin, FaGithub, FaInstagram } from "react-icons/fa";
+import { FaXTwitter } from "react-icons/fa6";
 
 const Navbar = () => {
   return (
@@ -13,7 +14,7 @@ const Navbar = () => {
       </div>
       <div className="flex items-center justify-center gap-4 text-xl sm:text-2xl">
         <a
-          href="https://www.linkedin.com/in/devkoyani521/"
+          href="https://www.linkedin.com/in/devkoyani521"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn"
@@ -31,7 +32,7 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://www.linkedin.com/in/devkoyani521/"
+          href="https://www.instagram.com/dev_koyani"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram"
@@ -40,13 +41,13 @@ const Navbar = () => {
           <FaInstagram />
         </a>
         <a
-          href="https://www.linkedin.com/in/devkoyani521/"
+          href="https://x.com/DevKoyani"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Twitter"
           className="hover:text-stone-400 transition-colors"
         >
-          <FaTwitter />
+          <FaXTwitter />
         </a>
       </div>
     </nav>
