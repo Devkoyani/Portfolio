@@ -7,36 +7,20 @@ export const HERO_CONTENT = `I am a passionate Frontend Developer with a knack f
 
 With strong communication abilities and leadership experience, I’ve contributed effectively to technical challenges in team environments. Certified in MongoDB and active in competitive programming, I am committed to continuous learning and ready to tackle complex problems while driving innovation in modern tech teams.`;
 
-export const ABOUT_TEXT = `I am a dedicated and versatile full stack developer with a passion for creating efficient and user-friendly web applications. With 5 years of professional experience, I have worked with a variety of technologies, including React, Next.js, Node.js, MySQL, PostgreSQL, and MongoDB. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
-
 export const EXPERIENCES = [
   {
-    year: "2023 - Present",
-    role: "Senior Full Stack Developer",
-    company: "Google Inc.",
-    description: `Led a team in developing and maintaining web applications using JavaScript, React.js, and Node.js. Implemented RESTful APIs and integrated with MongoDB databases. Collaborated with stakeholders to define project requirements and timelines.`,
-    technologies: ["Javascript", "React.js", "Next.js", "mongoDB"],
+    year: "June. 2025 - Present",
+    role: "Software Engineer Intern",
+    company: "BrilWork Software",
+    description: `Contributing to the development of scalable and maintainable web applications using React.js, with a focus on user-centric design and code efficiency. Working closely with cross-functional teams to implement modern UI components, optimize performance, and ensure seamless user experiences across devices.`,
+    technologies: ["React.js", "Node.js", "Tailwind", "mongoDB"],
   },
   {
-    year: "2022 - 2023",
-    role: "Frontend Developer",
-    company: "Adobe",
-    description: `Designed and developed user interfaces for web applications using Next.js and React. Worked closely with backend developers to integrate frontend components with Node.js APIs. Implemented responsive designs and optimized frontend performance.`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
-  {
-    year: "2021 - 2022",
-    role: "Full Stack Developer",
-    company: "Facebook",
-    description: `Developed and maintained web applications using JavaScript, React.js, and Node.js. Designed and implemented RESTful APIs for data communication. Collaborated with cross-functional teams to deliver high-quality software products on schedule.`,
-    technologies: ["Python", "Svelte", "Three.js", "Postgres"],
-  },
-  {
-    year: "2020 - 2021",
-    role: "Software Engineer",
-    company: "Paypal",
-    description: `Contributed to the development of web applications using JavaScript, React.js, and Node.js. Managed databases and implemented data storage solutions using MongoDB. Worked closely with product managers to prioritize features and enhancements.`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
+    year: "Jan. 2024 - May. 2025",
+    role: "Software Engineer Trainee",
+    company: "Buoyancy Software",
+    description: `Participated in the design and development of responsive frontend interfaces using React.js, focusing on interactive user experiences and performance optimization.`,
+    technologies: ["Javascript", "React.js", "Bootstrap", "mongoDB"],
   },
 ];
 
@@ -45,29 +29,29 @@ export const PROJECTS = [
     title: "E-Commerce Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["HTML", "CSS", "React", "Node.js", "MongoDB"],
+      "In designing the website for Moody Spark garments, our aim is to vividly showcase the shop and its diverse range of 100+ items available for online purchase. The ultimate goal of this website is to deliver actionable recommendations that drive sales and enhance customer satisfaction, ultimately establishing our e-commerce platform as the premier destination for online fashion shopping.",
+    technologies: ["React.js", "Node.js", "MySQL", "Strapi", "Stripe", "Git"],
   },
   {
-    title: "Task Management App",
+    title: "Milk Delivery Platform",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "The purpose of this website is to establish a convenient and efficient platform for customers to order and receive fresh milk products delivered directly to their doorstep. The website functions as an online marketplace or e-commerce platform specializing in the sale and delivery of milk.",
+    technologies: ["React.js", "MongoDB", "Tailwind CSS", "Git"],
   },
   {
-    title: "Portfolio Website",
+    title: "Student Help Portal",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+      "Engineered a student help portal facilitating easy access to essential resources such as faculty location details, scholarship schemes information and study materials. Enhanced user experience by designing intuitive interfaces for students to effortlessly navigate and find relevant information to support their academic journey.",
+    technologies: ["HTML", "CSS", "JavaScript", "Node.js"],
   },
   {
-    title: "Blogging Platform",
+    title: "Property Dealing Website",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["HTML", "CSS", "Vue.js", "Express", "mySQL"],
+      "One platform unites buyers, dealers, and diverse property owners nationwide, offering the optimal path for customers to purchase or sell property. Facilitating seamless communication between buyers and dealers across 100+ locations",
+    technologies: ["HTML", "CSS", "JavaScript", "Bootstrap", "Git"],
   },
 ];
 
