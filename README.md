@@ -3,7 +3,7 @@
 Welcome to my developer portfolio! This website highlights my experience, skills, and selected projects as a passionate Frontend Developer. It is built using modern tools and frameworks including **React.js**, **Framer Motion**, and **Tailwind CSS**.
 
 ## 🔗 Live Portfolio
-Visit: [https://devkoyani.github.io](https://devkoyani.github.io) *(replace with your actual live link if different)*
+Visit: [https://devkoyani.vercel.app]
 
 ---
 
