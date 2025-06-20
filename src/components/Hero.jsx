@@ -21,7 +21,7 @@ const childVariants = {
 
 const Hero = () => {
   return (
-    <div className="pb-4 lg:mb-36 px-4 sm:px-0">
+    <div className="pb-4 lg:mb-36 px-4 sm:px-0 pt-6 sm:pt-6">
       <div className="flex flex-col lg:flex-row-reverse">
         <div className="w-full lg:w-1/2">
           <div className="flex justify-center lg:justify-end lg:px-8 xl:px-32 lg:mt-12">

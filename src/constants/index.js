@@ -3,9 +3,9 @@ import project2 from "../assets/projects/project-2.webp";
 import project3 from "../assets/projects/project-3.webp";
 import project4 from "../assets/projects/project-4.webp";
 
-export const HERO_CONTENT = `I am a passionate Frontend Developer with a knack for crafting robust and scalable web applications. A recent graduate of CHAROTAR UNIVERSITY with a Bachelor of Technology in Computer Engineering, I’ve consistently aligned my academic knowledge with practical experience. I am currently interning as a React.js Developer at Buoyancy Software, where I apply my problem-solving skills and collaborative mindset to real-world projects.
+export const HERO_CONTENT = `I am a passionate Frontend Developer with a knack for crafting robust and scalable web applications. A recent graduate of CHAROTAR UNIVERSITY with a Bachelor of Technology in Computer Engineering, I’ve consistently aligned my academic knowledge with practical experience. I am currently interning as a Frontend Developer at Brilwork Software, where I apply my problem-solving skills and collaborative mindset to real-world projects.
 
-With strong communication abilities and leadership experience, I’ve contributed effectively to technical challenges in team environments. Certified in MongoDB and active in competitive programming, I am committed to continuous learning and ready to tackle complex problems while driving innovation in modern tech teams.`;
+With strong communication abilities, I’ve contributed effectively to technical challenges in team environments. Certified in MongoDB and active in competitive programming, I am committed to continuous learning and ready to tackle complex problems while driving innovation in modern tech teams.`;
 
 export const EXPERIENCES = [
   {
