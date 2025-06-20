@@ -22,12 +22,13 @@ const Navbar = () => {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-black bg-opacity-80 backdrop-blur-sm w-full flex flex-col sm:flex-row items-center justify-between py-4 sm:py-6 px-4 sm:px-6 lg:px-28">
       <div className="w-full sm:w-auto flex items-center justify-between">
-        <h2
+        <label
           className="pb-2 text-xl sm:text-2xl md:text-2xl lg:text-2xl xl:text-2xl tracking-tighter"
           style={{ fontFamily: "'Bodoni Moda', cursive" }}
+          onClick={() => scrollToSection('hero')}
         >
           D-K
-        </h2>
+        </label>
         
         {/* Mobile menu button */}
         <button
