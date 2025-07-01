@@ -15,3 +15,5 @@ Visit: [https://devkoyani.vercel.app]
    cd portfolio
    npm install
    npm run dev
+   ```
+## 🧑‍💻 Author Dev Koyani
